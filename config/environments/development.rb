@@ -41,8 +41,8 @@ Rails.application.configure do
   address:              'smtp.gmail.com',
   port:                 587,
   domain:               'gmail.com',
-  user_name:            'shm216lv.business@gmail.com',
-  password:             'colorfull@789',
+  user_name:            'xyz@gmail.com',
+  password:             'abcd',
   authentication:       :plain,
   enable_starttls_auto: true
 
